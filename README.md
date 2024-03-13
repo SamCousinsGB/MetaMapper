@@ -41,8 +41,8 @@ To kick things off, simply clone the MetaMapper - Template Repo and dive into th
 
 1.  **New Project** 🆕
 2.  **Template - MetaMapper** 📄
-3.  **Crate CI variables** ⚙️
-    -   **PAT** = -todo-
+3.  **Create CI variables** ⚙️
+    -   **Project Access Token** = -todo-
     -   **SLACK_WEBHOOK_URL** = -todo-
     -   **ARGS** = all, standard, custom
 
